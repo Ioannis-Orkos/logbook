@@ -1,0 +1,14 @@
+npm init
+
+npm init --yes 
+#-y/--yes to skip the questionnaire altogether
+
+
+npm i express
+
+npm i -D nodemon 
+# for global npm i -g nodemon 
+
+#In windows command: set PORT=3000
+#In PowerShell:  $env:NODE_ENV="production"
+nodemon index.js

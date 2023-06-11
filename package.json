@@ -1,0 +1,33 @@
+{
+  "name": "logbook",
+  "version": "1.0.0",
+  "description": "Logbook project help to record avation engeneers to record their daily work experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YohannisNicos-IoannisOrkos/logbook.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "javascript",
+    "aviation",
+    "logbook",
+    "mongoDB"
+  ],
+  "author": "Ioannis Orkos (Yohannis Nicos)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YohannisNicos-IoannisOrkos/logbook/issues"
+  },
+  "homepage": "https://github.com/YohannisNicos-IoannisOrkos/logbook#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "joi": "^17.9.2"
+  }
+}
