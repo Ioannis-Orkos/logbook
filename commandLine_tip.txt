@@ -1,14 +1,20 @@
 npm init
-
-npm init --yes 
-#-y/--yes to skip the questionnaire altogether
+npm init --yes  ##-y/--yes to skip the questionnaire altogether
 
 
-npm i express
-
-npm i -D nodemon 
-# for global npm i -g nodemon 
 
 #In windows command: set PORT=3000
 #In PowerShell:  $env:NODE_ENV="production"
 nodemon index.js
+
+
+npm i express
+//express middleware
+npm i helmet  ##secure by setting headers
+npm i -D morgan  ##http request logger
+
+//package
+npm i dotenv    ##help us set env variables from .env location
+npm i -D nodemon    ##npm i -g nodemon  -D mean development and -g mean global
+npm i config    ##This is like rc help us with configuration with enviroment configuration
+npm i joi   ##validation 
