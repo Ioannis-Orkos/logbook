@@ -1,3 +1,6 @@
 {
-    "ver":"1.1"
+    "ver":"1.0",
+    "APP_Name":"Logbook-Development",
+    "Developer": "Ioannis Orkos ( Yohannis Nicos )",
+    "name":"Logbook-Custom"
 }

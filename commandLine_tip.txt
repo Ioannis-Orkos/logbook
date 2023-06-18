@@ -18,3 +18,5 @@ npm i dotenv    ##help us set env variables from .env location
 npm i -D nodemon    ##npm i -g nodemon  -D mean development and -g mean global
 npm i config    ##This is like rc help us with configuration with enviroment configuration
 npm i joi   ##validation 
+
+npm i mongoose  ##help to connect to mangooDB
